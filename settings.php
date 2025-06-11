@@ -2,7 +2,7 @@
 //define('C_REST_CLIENT_ID','local.');//Application ID
 //define('C_REST_CLIENT_SECRET','SakeVG5mbRdcQet45UUrt6');//Application key
 // or
-define('C_REST_WEB_HOOK_URL','https://ru.web-wolf.net/rest/10/46bsyzomugammma9/');//url on creat Webhook
+define('C_REST_WEB_HOOK_URL','https://b24-j0mvuq.bitrix24.ru/rest/1/oqjzohtbo5vvgbfb/');//url on creat Webhook
 
 //define('C_REST_CURRENT_ENCODING','windows-1251');
 //define('C_REST_IGNORE_SSL',true);//turn off validate ssl by curl
